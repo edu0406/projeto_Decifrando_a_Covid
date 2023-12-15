@@ -1,0 +1,171 @@
+{
+  "variables" : [ {
+    "name" : "db_user",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_database",
+    "value" : "DESENVOLVIMENTO_PD",
+    "description" : ""
+  }, {
+    "name" : "db_host_dev",
+    "value" : "BPD05REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "mail_host",
+    "value" : "email-smtp.us-east-1.amazonaws.com",
+    "description" : ""
+  }, {
+    "name" : "mail_port",
+    "value" : "587",
+    "description" : ""
+  }, {
+    "name" : "mail_user",
+    "value" : "AKIAUBG53HOBVM6AWQWZ",
+    "description" : ""
+  }, {
+    "name" : "mail_pass",
+    "value" : "BGzMNm1cuJWn3EZEbAS8ZPtPdPEQyFrO/n9rOrO22Ty1",
+    "description" : ""
+  }, {
+    "name" : "mail_name",
+    "value" : "Pesquisa&Desenvolvimento",
+    "description" : ""
+  }, {
+    "name" : "mail_address",
+    "value" : "pesquisaedesenvolvimento@redasset.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_user_prod_pd_in",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_prod_pd_in",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_prod_pd_in",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_database_prod_pd_in",
+    "value" : "PRODUTIVO_PD",
+    "description" : ""
+  }, {
+    "name" : "db_host_prod_pd_in",
+    "value" : "BPD04REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_user_red_in",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_red_in",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_red_in",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_database_red_in",
+    "value" : "REDFACTOR",
+    "description" : ""
+  }, {
+    "name" : "db_host_prod",
+    "value" : "BPD04REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_user_pd",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_pd",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_pd",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_database_pd",
+    "value" : "DESENVOLVIMENTO_PD",
+    "description" : ""
+  }, {
+    "name" : "db_host_pd",
+    "value" : "BPD05REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_user_redfactor",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_redfactor",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_redfactor",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_host_redfactor",
+    "value" : "BPD05REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_database_redfactor",
+    "value" : "REDFACTOR",
+    "description" : ""
+  }, {
+    "name" : "db_user_red_cadastro",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_red_cadastro",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_red_cadastro",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_host_red_cadastro",
+    "value" : "BPD05REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_database_red_cadastro",
+    "value" : "RED_CADASTRO",
+    "description" : ""
+  }, {
+    "name" : "db_user_red_analise",
+    "value" : "sys_r_bi",
+    "description" : ""
+  }, {
+    "name" : "db_pass_red_analise",
+    "value" : "Encrypted 2be98afc86aa7f297b20abc72d7c3fd89",
+    "description" : ""
+  }, {
+    "name" : "db_port_red_analise",
+    "value" : "1433",
+    "description" : ""
+  }, {
+    "name" : "db_host_red_analise",
+    "value" : "BPD05REDAWS.redfactor.com.br",
+    "description" : ""
+  }, {
+    "name" : "db_database_red_analise",
+    "value" : "RED_ANALISE_BI",
+    "description" : ""
+  }, {
+    "name" : "workplace",
+    "value" : "Desenvolvimento",
+    "description" : ""
+  } ]
+}
